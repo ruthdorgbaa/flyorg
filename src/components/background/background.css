@@ -1,0 +1,28 @@
+.background{
+background: #FFFFFF;
+position: relative;
+
+}
+.elipse1{
+    position: fixed;
+    background: linear-gradient(218.94deg, #21678a 0%, #74a0b8 100%);
+    width: 721px;
+    height: 875px;
+    left: -46px;
+    top: -250px;
+    opacity: 0.9;
+    z-index: -1000;
+    border-radius: 50%;
+}
+.elipse2{
+    position: fixed;
+    background: linear-gradient(218.94deg, #12839C 0%, #102648 100%);
+    width: 721px;
+    height: 875px;
+    left: -77px;
+    top: -300px;
+    z-index: -1000;
+    border-radius: 50%;
+
+
+}

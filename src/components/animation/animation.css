@@ -1,0 +1,11 @@
+/*.animation{
+    transition: all  5s ease-in-out;
+    opacity: 0;
+    display: block;
+    margin: auto;
+
+}
+.animation.visible{
+    opacity: 1;
+
+}*/
